@@ -5,9 +5,7 @@ endereço, telefone, horário de funcionamento, data de fundação e etc. Ao cli
 a cada unidade hospitalar o usuário irá visulaizar as informações referente a essa unidade.
 
 ## Layout do Projeto
-<img src="ProgrmaEmJava.png">
-<img src="ProgrmaEmJava2.png">
-
+<img src="ProgramaEmJava.png" width="330">_____<img src="ProgramaEmJava2.png" width="330">
 
 ## Tecnologias Utilizadas
 Front End: Java, API Java Swing. 
@@ -17,8 +15,8 @@ Front End: Java, API Java Swing.
 ```
 package exercicio.java;
 
-public class OlaMundoJava extends javax.swing.JFrame {
-    public OlaMundoJava() {
+public class PrimeiroPrograma extends javax.swing.JFrame {
+    public PrimeiroPrograma() {
         initComponents();
     }
     @SuppressWarnings("unchecked")
